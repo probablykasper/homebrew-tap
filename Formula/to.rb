@@ -1,4 +1,4 @@
-class Notes < Formula
+class To < Formula
   desc "Pretty simple bash script that converts audio, video and image files using FFmpeg and ImageMagick"
   homepage "https://github.com/spectralkh/to"
   url "https://github.com/SpectralKH/to/raw/master/dist/to-1.0.0.tar.gz"
