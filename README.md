@@ -1,19 +1,26 @@
 # homebrew-tap
-Add this tap by running:
+To install anything in here, first run:
 ```
 brew tap spectralkh/tap
 ```
-# Formulae
+
+# Casks
 
 ### to
 https://github.com/SpectralKH/to
 
-
-# Casks
-Install casks by running:
+Install by running:
 ```
-brew cask install <name>
+brew cask install to
 ```
 
 ### flutter
-Unofficial Flutter formula (pre-compiled)
+Install by running:
+```
+brew cask install flutter
+```
+
+Finally, to see if there are dependencies you need to install, run:
+```
+flutter doctor
+```
