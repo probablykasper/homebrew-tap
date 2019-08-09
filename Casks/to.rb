@@ -1,6 +1,6 @@
 cask "to" do
-  version "1.2.0"
-  sha256 "f1d10707c0cc9709418adfecf2e5a3415be52f0d5f44c9820a5b2679dadf399d"
+  version "1.3.0"
+  sha256 "96b1b0b58c76ba37b63af2476f36266a8d118510dd32a4024f12570fcc7fc2e0"
 
   url "https://github.com/SpectralKH/to/raw/master/dist/to-#{version}.tar.gz"
   name "to"
