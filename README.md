@@ -1,18 +1,18 @@
 # Casks
 
 ## to
-https://github.com/SpectralKH/to
+https://github.com/probablykasper/to
 
 Install by running:
 ```
-brew tap spectralkh/tap
+brew tap probablykasper/tap
 brew cask install to
 ```
 
 ## flutter
 Install by running:
 ```
-brew tap spectralkh/tap
+brew tap probablykasper/tap
 brew cask install flutter
 flutter upgrade
 ```
