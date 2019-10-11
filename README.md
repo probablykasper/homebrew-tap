@@ -5,15 +5,13 @@ https://github.com/probablykasper/to
 
 Install by running:
 ```
-brew tap probablykasper/tap
-brew cask install to
+brew tap probablykasper/tap/to
 ```
 
 ## flutter
 Install by running:
 ```
-brew tap probablykasper/tap
-brew cask install flutter
+brew tap probablykasper/tap/flutter
 flutter upgrade
 ```
 **NOTE:** To update Flutter in the future, run `flutter upgrade`. This cask is intentionally not being updated, so that it won't interfere with Flutter's own version management.
