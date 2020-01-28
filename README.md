@@ -1,17 +1,9 @@
 # Casks
 
-## to
-https://github.com/probablykasper/to
-
-Install by running:
-```
-brew tap probablykasper/tap/to
-```
-
 ## flutter
 Install by running:
 ```
-brew tap probablykasper/tap/flutter
+brew install probablykasper/tap/flutter
 flutter upgrade
 ```
 **NOTE:** To update Flutter in the future, run `flutter upgrade`. This cask is intentionally not being updated, so that it won't interfere with Flutter's own version management.
@@ -19,4 +11,12 @@ flutter upgrade
 To see if there are any dependencies you need to install:
 ```
 flutter doctor
+```
+
+## to
+https://github.com/probablykasper/to
+
+Install by running:
+```
+brew cask install probablykasper/tap/to
 ```
