@@ -1,3 +1,13 @@
+# Formulas
+
+## serve
+https://github.com/probablykasper/serve
+
+Install by running:
+```
+brew install probablykasper/tap/serve
+```
+
 # Casks
 
 ## flutter
