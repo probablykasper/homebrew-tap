@@ -9,5 +9,5 @@ cask "to" do
   depends_on formula: "ffmpeg"
   depends_on formula: "imagemagick"
 
-  binary "bin/to"
+  binary "to-#{version}/bin/to"
 end
