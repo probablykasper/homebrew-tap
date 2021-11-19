@@ -1,8 +1,8 @@
 cask "to" do
-  version "1.3.1"
-  sha256 "fcfe7c0eca89de5b30d7ca854c866ade6c612f657bdc505abdf20cfa50bcc611"
+  version "1.4.0"
+  sha256 "b36c9389b4d59af6393253059e4ffb5d87e8c38441aff1f3f9f4db20ee047cd6"
 
-  url "https://github.com/SpectralKH/to/raw/master/dist/to-#{version}.tar.gz"
+  url "https://github.com/probablykasper/to/archive/refs/tags/#{version}.tar.gz"
   name "to"
   homepage "https://github.com/probablykasper/to"
 
