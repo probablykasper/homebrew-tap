@@ -1,6 +1,6 @@
-# Formulas
+## Formulas
 
-## serve
+### serve
 https://github.com/probablykasper/serve
 
 Install by running:
@@ -8,9 +8,9 @@ Install by running:
 brew install probablykasper/tap/serve
 ```
 
-# Casks
+## Casks
 
-## flutter
+### flutter
 Install by running:
 ```
 brew install probablykasper/tap/flutter
@@ -23,7 +23,7 @@ To see if there are any dependencies you need to install:
 flutter doctor
 ```
 
-## to
+### to
 https://github.com/probablykasper/to
 
 Install by running:
