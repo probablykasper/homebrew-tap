@@ -6,8 +6,8 @@ class Serve < Formula
   name "to"
   homepage "https://github.com/probablykasper/to"
 
-  depends_on formula: "ffmpeg"
-  depends_on formula: "imagemagick"
+  depends_on "ffmpeg"
+  depends_on "imagemagick"
 
   def install
     bin.install "to-#{version}/bin/to"
