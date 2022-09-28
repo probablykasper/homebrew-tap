@@ -8,6 +8,14 @@ Install by running:
 brew install probablykasper/tap/serve
 ```
 
+### to
+https://github.com/probablykasper/to
+
+Install by running:
+```
+brew install probablykasper/tap/to
+```
+
 ## Casks
 
 ### flutter
@@ -21,12 +29,4 @@ flutter upgrade
 To see if there are any dependencies you need to install:
 ```
 flutter doctor
-```
-
-### to
-https://github.com/probablykasper/to
-
-Install by running:
-```
-brew cask install probablykasper/tap/to
 ```
