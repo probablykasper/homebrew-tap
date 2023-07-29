@@ -1,8 +1,8 @@
 class To < Formula
-  version "1.5.3"
+  version "1.5.4"
 
   url "https://github.com/probablykasper/to/raw/v#{version}/bin/to"
-  sha256 "51f59e6c2ab5f7e9e95b0ecdca819384339db26d53a9cdca16d22a6b0d31b1b8"
+  sha256 "b0f0d6c0aea234bacac26a9eeada07b16de6a75917bb2ac87b6e21f8ac1eb8e2"
 
   desc "CLI audio, video and image file converter"
   homepage "https://github.com/probablykasper/to"
